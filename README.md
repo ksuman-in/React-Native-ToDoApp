@@ -1,2 +1,6 @@
 # React-Native-ToDoApp
-<img src="./mockup.png" />
+### Add ToDo List
+<img src="./addlist.jpeg" />
+
+### Remove ToDo List
+<img src="./deleteList.jpeg" />
